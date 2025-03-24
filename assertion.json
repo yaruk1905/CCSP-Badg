@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://example.org/assertion/yaroslav-hnatiuk-ccsp",
+  "id": "https://yaruk1905.github.io/CCSP-Badge/assertion.json",
   "recipient": {
     "type": "name",
     "identity": "Yaroslav Hnatiuk"
