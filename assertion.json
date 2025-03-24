@@ -1,0 +1,14 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://example.org/assertion/yaroslav-hnatiuk-ccsp",
+  "recipient": {
+    "type": "name",
+    "identity": "Yaroslav Hnatiuk"
+  },
+  "badge": "https://example.org/badge/ccsp",
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "issuedOn": "2025-03-24T00:00:00Z"
+}

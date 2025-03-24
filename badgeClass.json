@@ -1,0 +1,18 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://example.org/badge/ccsp",
+  "name": "Certified Cloud Security Professional (CCSP)",
+  "description": "Awarded for demonstrating expertise in cloud security, architecture, governance, and compliance.",
+  "image": "https://example.org/images/ccsp-badge.png",
+  "criteria": {
+    "narrative": "The recipient has passed the CCSP certification exam and met experience requirements in cloud security."
+  },
+  "issuer": {
+    "id": "https://example.org/issuer/isc2",
+    "type": "Issuer",
+    "name": "(ISC)\u00b2",
+    "url": "https://www.isc2.org",
+    "email": "support@isc2.org"
+  }
+}
